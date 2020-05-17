@@ -1,35 +1,7 @@
-# sample-app
+# Udemyを見ながらVue.csで作成したメモアプリ
+https://my-address-pj-vue-tutrial.web.app/addresses
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-# チュートリアルのメモ
-
+# Vue用語集
 
 ## マスタシュ/ひげ記法 
 {{ var }}
