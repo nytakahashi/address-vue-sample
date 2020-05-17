@@ -1,4 +1,4 @@
-# Udemyを見ながらVue.csで作成したメモアプリ
+# Udemyを見ながらVue.jsで作成したメモアプリ
 
 [demo](https://my-address-pj-vue-tutrial.web.app/addresses)
 
