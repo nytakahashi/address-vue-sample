@@ -1,5 +1,8 @@
 # Udemyを見ながらVue.csで作成したメモアプリ
-https://my-address-pj-vue-tutrial.web.app/addresses
+
+[demo](https://my-address-pj-vue-tutrial.web.app/addresses)
+
+[udemy](https://www.udemy.com/course/vuejs-firebase/)
 
 # Vue用語集
 
